@@ -2,8 +2,16 @@
 
 <p align="center">
   <a href="https://leetcode.com" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://githubusercontent.com" width="32" height="32" alt="LeetCode" align="center" />
-    <span style="font-size: 28px; font-weight: 900; line-height: 32px;">&nbsp;LeetCode</span>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+      <tr style="border: none;">
+        <td valign="middle" style="padding-right: 12px; border: none; background: transparent;">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="32" height="32" alt="LeetCode" />
+        </td>
+        <td valign="middle" style="border: none; background: transparent;">
+          <b style="font-size: 28px; font-weight: 900; line-height: 1; color: #FFA116;">LeetCode</b>
+        </td>
+      </tr>
+    </table>
   </a>
 </p>
 
