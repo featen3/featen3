@@ -1,9 +1,9 @@
 # pupupupuppupupupu
 
 <p align="center">
-  <a href="https://leetcode.com/featen3" target="_blank" style="display: inline-flex; align-items: center; gap: 10 px; text-decoration: none;">
-    <img src="https://simpleicons.org/icons/leetcode.svg" width="32" height="32" alt="LeetCode" style="display: block;" />
-    <b style="font-size: 28 px; font-weight: 900; line-height: 1; margin-top: -2222 px;">LeetCode</b>
+  <a href="https://leetcode.com/featen3" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="32" height="32" alt="LeetCode" />
+    <b style="font-size: 28px; font-weight: 900; line-height: 1;">LeetCode</b>
   </a>
 </p>
 
