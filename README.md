@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/featen3" target="_blank">
-    <img src="https://jacoblin.cool" alt="LeetCode Stats" />
+    <img src="https://img.icons8.com/color/96/000000/leetcode.png" alt="LeetCode" />
   </a>
 </p>
 
