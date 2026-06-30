@@ -5,7 +5,7 @@
     <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
       <tr style="border: none;">
         <td valign="middle" style="padding-right: 12px; border: none; background: transparent;">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="32" height="32" alt="LeetCode" />
+          <img src="https://jsdelivr.net" width="32" height="32" alt="LeetCode" />
         </td>
         <td valign="middle" style="border: none; background: transparent;">
           <b style="font-size: 28px; font-weight: 900; line-height: 1; color: #FFA116;">LeetCode</b>
