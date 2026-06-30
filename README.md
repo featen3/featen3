@@ -1,6 +1,7 @@
 # pupupupuppupupupu
+
 <p align="center">
-  <a href="https://leetcode.com/u/featen3/" target="_blank">
+  <a href="https://leetcode.com/featen3" target="_blank">
     <img src="https://jacoblin.cool" alt="LeetCode Stats" />
   </a>
 </p>
