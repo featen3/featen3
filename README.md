@@ -1,4 +1,4 @@
-# pupupupuppupupupu
+# нет секрета делать надо
 
 <p align="center">
   <a href="https://featen3.github.io/links/" target="u_blank">
