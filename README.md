@@ -1,7 +1,7 @@
 # pupupupuppupupupu
 
 <p align="center">
-  <a href="twitch.tv" target="u_blank">
+  <a href="https://featen3.github.io/links/" target="u_blank">
     <img src="Untitled.png" alt="Мое фото" width="150" style="border-radius: 50%;">
   </a>
   <br><br>
