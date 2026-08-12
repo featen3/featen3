@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://featen3.github.io/links/" target="u_blank">
-    <img src="Untitled.png" alt="Мое фото" width="150" style="border-radius: 50%;">
+    <img src="Untitled.png" alt="Мое фото" width="250" style="border-radius: 50%;">
   </a>
   <br><br>
   <img src="github-contribution-grid-snake.svg?v=2" alt="GitHub Contribution Snake Animation">
